@@ -1,4 +1,4 @@
 echo "hello"
 
 # new line
-ech "new line"
+echo "new line"
